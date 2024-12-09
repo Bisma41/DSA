@@ -49,5 +49,5 @@ int main() {
     printLinkedList(head); // should print nothing if all elements are removed
     cout << endl;
 
-    return 0;
+    return 0
 }

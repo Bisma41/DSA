@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	// two ways to initialize a pointer
+	// two ways to initialize a pointe
     int i=5;
     // #1
     int *p=0;
